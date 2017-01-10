@@ -35,9 +35,9 @@ github_username: spaceotterinspace
 
 # Internal nav
 nav:
- writing: "root_url/writing/"
- gallery: "root_url/gallery/"
- about: "root_url/about/"
+ reception: "root_url/reception/"
+ wedding: "root_url/wedding/"
+ registry: "root_url/registry/"
 
 
 # Server
