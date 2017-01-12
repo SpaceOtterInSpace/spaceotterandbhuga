@@ -10,6 +10,6 @@ tags: [tag-name-one, tag-name-two]
 category: [cat01]
 comments: false
 ---
-> Enjoy Cocktails and appetizers.
+> Enjoy Cocktails and appetizers with the fam.
 
-Food, fun, and Family at Bill and Nancy's (the grooms side).
+Food, fun, and family at Bill and Nancy's (the grooms side).
