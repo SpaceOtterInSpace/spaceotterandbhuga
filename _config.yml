@@ -1,5 +1,5 @@
 # Site settings
-title: "Space Otter and Bhuga"
+title: "Jacqui and Ben's Wedding"
 description: Space Otter and Bhuga get married
 
 # Files
@@ -9,7 +9,7 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: Space Otter and Bhuga
+discus_shortname: Jacqui and Ben's Wedding
 email: jacqnelson@gmail.com
 url: "http://spaceotterandbhuga.com"
 search: true
@@ -24,7 +24,7 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   Space Otter and Bhuga
+  name:   Jacqui and Ben's Wedding
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Space Otter and Bhuga get married
