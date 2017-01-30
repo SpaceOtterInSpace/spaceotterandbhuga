@@ -4,8 +4,8 @@ title:      "Pre Wedding Activities"
 subtitle:   "What to do in Nola before the wedding"
 date:       2017-04-15 11:00:00
 author:     "spaceotter"
-header-img: "assets/owner/blog/header/post-bg-01.jpg"
-thumbnail: /assets/owner/blog/thumbs/thumb01.png
+header-img: "assets/events/escaperoom.jpg"
+thumbnail: /assets/events/escaperoom.jpg
 tags: [tag-name-one, tag-name-two]
 category: [cat01]
 comments: false
