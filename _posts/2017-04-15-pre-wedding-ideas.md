@@ -14,9 +14,12 @@ comments: false
 
 Not sure what to do? Try some of these ideas.
 
-1. Swamp tours
-1. Plantation tour
 1. Escape Room
+	* A friend of ours runs the best escape room in town. Solve puzzles in a New Orleans parlour. Can you get out in time for the wedding? <a href="https://escapemyroom.com/">Schedule Now</a>
+1. Swamp tours
+	* Book <a href="http://www.cajunencounters.com/">here</a> to reserve a tour that leaves out of New Orleans and see some real life alligators.
+1. Walk through the French Quarter.
+	* A beautiful and historic part of New Orleans. Either take a self or guided <a href="http://www.freetoursbyfoot.com/things-to-do-in-the-french-quarter/">tour</a> and see some beautful architecture.
 
 Lunch suggestions (too many to count)
 1. Dat Dog 

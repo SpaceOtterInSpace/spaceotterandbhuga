@@ -37,6 +37,7 @@ github_username: spaceotterinspace
 nav:
  events: "root_url/events/"
  registry: "root_url/registry/"
+ accommodations: "root_url/accommodations/"
 
 
 # Server
