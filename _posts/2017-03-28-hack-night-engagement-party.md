@@ -12,5 +12,4 @@ comments: false
 share: true
 ---
 
-> Celebrating where we met with a very special hack night.
-
+Join us in the place that we met to celebrate our upcoming nupituals.

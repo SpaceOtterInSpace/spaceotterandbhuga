@@ -10,6 +10,5 @@ tags: [tag-name-one, tag-name-two]
 category: [cat01]
 comments: false
 ---
-> Enjoy Cocktails and appetizers with the fam.
 
 Food, fun, family, and cocktails.

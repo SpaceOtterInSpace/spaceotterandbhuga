@@ -10,7 +10,6 @@ tags: [tag-name-one, tag-name-two]
 category: [cat01]
 comments: false
 ---
-> Enjoying the sites of the city before the wedding.
 
 Not sure what to do? Try some of these ideas.
 
