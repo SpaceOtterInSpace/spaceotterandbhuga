@@ -4,8 +4,8 @@ title: "Easter"
 subtitle: "Brunch and Parades"
 date:       2017-04-16 12:00:00
 author:     "spaceotter"
-header-img: "assets/owner/blog/header/post-bg-02.jpg"
-thumbnail: /assets/owner/blog/thumbs/thumb02.png
+header-img: "assets/events/easter.JPG"
+thumbnail: /assets/events/easter.JPG
 tags: [tag-name-one, tag-name-two]
 category: [cat01]
 comments: false
@@ -14,4 +14,6 @@ share: true
 
 > Eat some brunch watch some parades.
 
-In true New Orleans fashion there will be parades. We'll stock up on some brunch before heading to the quarter for some parades.
+Join us for some post wedding brunch at the happy couple's home in the Marigny. We'll all eat some brunch and you can send them a very special farwell while they head off to their honeymoon last that afternoon.
+
+As with any big holiday in New Orleans, there are some amazing parades in the French Quarter you might want to hit up before you leave town. I hear the hats are to die for.
