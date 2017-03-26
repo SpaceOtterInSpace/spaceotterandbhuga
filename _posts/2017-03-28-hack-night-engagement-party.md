@@ -13,3 +13,6 @@ share: true
 ---
 
 Join us in the place that we met to celebrate our upcoming nupituals.
+
+<div align="center">Capdevillie <br>
+7pm-12am<br></div>
