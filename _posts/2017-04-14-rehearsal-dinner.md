@@ -18,4 +18,4 @@ We're going to dress "a little nice", and you can wear whatever you want. But p
 <div align="center">Tigermen's Den <br>
 3113 Royal St<br>
 New Orleans, LA 70117<br>
-4:30pm-8pm<br></div>
+5:30pm-8pm<br></div>
