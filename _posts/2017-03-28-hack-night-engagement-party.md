@@ -14,5 +14,7 @@ share: true
 
 Join us in the place that we met to celebrate our upcoming nupituals.
 
-<div align="center">Capdevillie <br>
+<div align="center"><a href="https://www.capdevillenola.com/">Capdeville</a> <br>
+520 Capdeville Street  <br>
+New Orleans, LA <br>
 7pm-12am<br></div>
