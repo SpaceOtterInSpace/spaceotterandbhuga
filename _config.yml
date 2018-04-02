@@ -3,7 +3,7 @@ title: "Jacqui and Ben's Wedding"
 description: Space Otter and Bhuga get married
 
 # Files
-baseurl:
+baseurl: "http://spaceotterinspace.com/spaceotterandbhuga"
 pagesdir: pages
 assets:
   libs: assets/libs
